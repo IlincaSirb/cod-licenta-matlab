@@ -1,2 +1,2 @@
-# cod-licenta-matlab
+# licenta initiala
 matlab
